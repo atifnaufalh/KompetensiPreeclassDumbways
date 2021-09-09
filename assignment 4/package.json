@@ -1,0 +1,19 @@
+{
+  "name": "web-wiki-games",
+  "version": "1.0.0",
+  "description": "assignment end 4",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "hbs": "^4.1.2",
+    "mysql2": "^2.3.0",
+    "nodemon": "^2.0.12",
+    "session": "^0.1.0"
+  }
+}
